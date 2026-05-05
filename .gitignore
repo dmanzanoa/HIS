@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Data (optional depending on size)
+data/live_state/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
